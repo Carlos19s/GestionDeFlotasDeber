@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "GestionDeFlotas\\GestionDeFlotas.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AlertasYSensores.Api\\AlertasYSensores.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

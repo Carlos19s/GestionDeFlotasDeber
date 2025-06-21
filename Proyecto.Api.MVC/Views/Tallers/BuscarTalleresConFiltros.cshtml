@@ -1,0 +1,60 @@
+﻿@model IEnumerable<GestionDeFlotas.Modelos.Taller>
+
+@{
+    ViewData["Title"] = "Buscar Talleres";
+}
+
+<h1>Buscar Talleres</h1>
+
+<!-- Formulario de búsqueda con filtros -->
+<form method="get" action="@Url.Action("BuscarTalleresConFiltros")">
+    <div class="form-group">
+        <label for="searchTerm">Buscar por Nombre del Taller:</label>
+        <input type="text" id="searchTerm" name="searchTerm" placeholder="Buscar por Nombre del taller" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Ciudad">Buscar por Ciudad:</label>
+        <input type="text" id="Ciudad" name="Ciudad" placeholder="Buscar por Ciudad" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+<h3>Resultados de la búsqueda</h3>
+
+<!-- Tabla para mostrar los talleres filtrados -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.id)</th>
+            <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.Ciudad)</th>
+            <th>@Html.DisplayNameFor(model => model.CapacidadMaximaDeReparacionesSimultaneas)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.id)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Ciudad)</td>
+                <td>@Html.DisplayFor(modelItem => item.CapacidadMaximaDeReparacionesSimultaneas)</td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = item.id }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.id }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">
+        No se encontraron talleres con los filtros seleccionados.
+    </div>
+}

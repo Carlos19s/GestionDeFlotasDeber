@@ -1,0 +1,51 @@
+﻿.Titulo{
+    color:red;
+}
+.contenedorGeneral {
+    background-color: rgba(245, 245, 220,0.5);
+}
+.LoginInicio {
+    background-color: rgba(173, 255, 47,0.6);
+    border-radius: 10%;
+    box-shadow: 1px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+}
+.contenedor-home{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+.contenedor.LoginInicio{
+    text-align:center;
+}
+.LoginInicio:hover {
+    background-color: rgba(0,0,0,1);
+    transition:1s;
+    color:white;
+}
+.Botones {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 10px;
+}
+.IngresoDatos{
+    width:50%;
+    margin:auto;
+    
+}
+.AlertasControl{
+    color:white;
+    text-decoration:none;
+}

@@ -1,0 +1,219 @@
+[
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.AlertasController",
+    "Method": "GetAlerta",
+    "RelativePath": "api/Alertas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Sensores.Modelos.Alerta, GestionDeFlotas.Modelos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.AlertasController",
+    "Method": "PostAlerta",
+    "RelativePath": "api/Alertas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "Sensores.Modelos.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Sensores.Modelos.Alerta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.AlertasController",
+    "Method": "GetAlerta",
+    "RelativePath": "api/Alertas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Sensores.Modelos.Alerta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.AlertasController",
+    "Method": "PutAlerta",
+    "RelativePath": "api/Alertas/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "alerta",
+        "Type": "Sensores.Modelos.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.AlertasController",
+    "Method": "DeleteAlerta",
+    "RelativePath": "api/Alertas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.AlertasController",
+    "Method": "GenerarAlertasMantenimientoPredictivo",
+    "RelativePath": "api/Alertas/GenerarMantenimientoPredictivo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.SensorsController",
+    "Method": "GetSensor",
+    "RelativePath": "api/Sensors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Sensores.Modelos.Sensor, GestionDeFlotas.Modelos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.SensorsController",
+    "Method": "VerificarCamionExistente",
+    "RelativePath": "api/Sensors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sensor",
+        "Type": "Sensores.Modelos.Sensor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.SensorsController",
+    "Method": "GetSensor",
+    "RelativePath": "api/Sensors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Sensores.Modelos.Sensor",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.SensorsController",
+    "Method": "DeleteSensor",
+    "RelativePath": "api/Sensors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.SensorsController",
+    "Method": "DetenerSimulacion",
+    "RelativePath": "api/Sensors/DetenerSimulacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlertasYSensores.Api.Controllers.SensorsController",
+    "Method": "SimularSensoresAutom\u00E1ticamente",
+    "RelativePath": "api/Sensors/SimularSensoresAutom\u00E1ticamente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

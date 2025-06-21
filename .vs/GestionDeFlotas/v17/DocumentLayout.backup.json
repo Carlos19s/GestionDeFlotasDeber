@@ -1,0 +1,1720 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\proyecto.api.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\proyecto.api.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\appsettings.api2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\appsettings.api2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\appsettings.api1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\appsettings.api1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\alertas\\generarmantenimientopredictivo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\alertas\\generarmantenimientopredictivo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\alertas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\alertas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A199B-D675-429A-883D-8E46527E6782}|Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.consumer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98A199B-D675-429A-883D-8E46527E6782}|Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj|solutionrelative:proyecto.api.consumer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\controllers\\alertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\sensors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\sensors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\sensorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\mantenimientoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\mantenimientoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\logindtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\logindtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\camionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\camionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\conductorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\conductorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\models\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\controllers\\tallerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\controllers\\tallerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\tallerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\tallerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\tallers\\buscartalleresconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\tallers\\buscartalleresconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\usuarios\\buscarusuariosconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\usuarios\\buscarusuariosconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\usuarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\tallers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\tallers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\conductors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\conductors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\conductors\\buscarconductoresconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\conductors\\buscarconductoresconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\camions\\buscarcamionesconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\camions\\buscarcamionesconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\controllers\\camionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\controllers\\camionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\controllers\\conductorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\controllers\\conductorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\controllers\\mantenimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\controllers\\mantenimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\controllers\\mantenimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\controllers\\mantenimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\camions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\camions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\mantenimientoes\\buscarmantenimientosconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\mantenimientoes\\buscarmantenimientosconfiltros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\controllers\\logindtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\controllers\\logindtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\mantenimientoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\mantenimientoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\mantenimientoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\mantenimientoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\mantenimientoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\mantenimientoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\mantenimientoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\mantenimientoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\tallers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\tallers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\alertas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\alertas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\tallers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\tallers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\tallers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\tallers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\logindtoes\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\logindtoes\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250620135018_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250620135018_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\alertas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\alertas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\alertas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\alertas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\gestiondeflotas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\gestiondeflotas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\alertasysensores.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\alertasysensores.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas.modelos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91175FB-E9C5-48A8-B800-0928DDE22637}|GestionDeFlotas.Modelos\\GestionDeFlotas.Modelos.csproj|solutionrelative:gestiondeflotas.modelos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619163830_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619163830_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\sensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\sensors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619025250_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619025250_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619023158_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250619023158_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619023135_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250619023135_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619023059_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619023059_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619023032_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619023032_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619022453_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250619022453_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619022435_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619022435_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619021954_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619021954_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619014930_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AlertasYSensores.Api\\Migrations\\20250619014930_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619012727_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250619012727_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Sensores.Api\\Migrations\\20250619012654_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensores.Api\\Migrations\\20250619012654_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Sensores.Api\\Migrations\\20250619012500_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sensores.Api\\Migrations\\20250619012500_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\conductors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\conductors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\camions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\camions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\usuarios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\conductors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\conductors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\camions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\camions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\usuarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\tallers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\tallers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\conductors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\conductors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\conductors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\conductors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\camions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\camions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\views\\camions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\views\\camions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.mvc\\proyecto.api.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D0E3CAC-AF6A-4F6D-88FB-EA8A79A897DA}|Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj|solutionrelative:proyecto.api.mvc\\proyecto.api.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618150203_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250618150203_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98A199B-D675-429A-883D-8E46527E6782}|Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\proyecto.api.consumer\\proyecto.api.consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B98A199B-D675-429A-883D-8E46527E6782}|Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj|solutionrelative:proyecto.api.consumer\\proyecto.api.consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618141306_sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250618141306_sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618141114_sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestionDeFlotas\\Migrations\\20250618141114_sqlserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\gestiondeflotas\\migrations\\20250620153555_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA3BF4A-9FA9-4BA6-95DD-FA1EDA6F27FB}|GestionDeFlotas\\GestionDeFlotas.Api.csproj|solutionrelative:gestiondeflotas\\migrations\\20250620153555_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|c:\\users\\carlo\\source\\repos\\gestiondeflotas\\alertasysensores.api\\migrations\\20250620134756_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D8E594-FFC5-42E7-AFB5-7CDF273BF962}|AlertasYSensores.Api\\AlertasYSensores.Api.csproj|solutionrelative:alertasysensores.api\\migrations\\20250620134756_postgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto.Api.MVC",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T03:13:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Program.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Program.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:05:14.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Api1.json",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\appsettings.Api1.json",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\appsettings.Api1.json",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\appsettings.Api1.json",
+              "RelativeToolTip": "AlertasYSensores.Api\\appsettings.Api1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T01:47:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Program.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:15:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AlertasController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Controllers\\AlertasController.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Controllers\\AlertasController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Controllers\\AlertasController.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Controllers\\AlertasController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:46:08.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.API.Consumer\\Crud.cs",
+              "RelativeDocumentMoniker": "Proyecto.API.Consumer\\Crud.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.API.Consumer\\Crud.cs",
+              "RelativeToolTip": "Proyecto.API.Consumer\\Crud.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwLAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:53:57.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Program.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:39:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Mantenimiento.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Mantenimiento.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:10:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Alertas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Alertas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:27:22.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Api2.json",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\appsettings.Api2.json",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\appsettings.Api2.json",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\appsettings.Api2.json",
+              "RelativeToolTip": "Proyecto.Api.MVC\\appsettings.Api2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T03:10:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenerarMantenimientoPredictivo.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\GenerarMantenimientoPredictivo.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Alertas\\GenerarMantenimientoPredictivo.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\GenerarMantenimientoPredictivo.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Alertas\\GenerarMantenimientoPredictivo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T00:47:56.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorsController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Controllers\\SensorsController.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Controllers\\SensorsController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Controllers\\SensorsController.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Controllers\\SensorsController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAWwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:35:31.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T21:13:14.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlertasController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\AlertasController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\AlertasController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\AlertasController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\AlertasController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAMwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:35:04.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Sensors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Sensors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Sensors\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Sensors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:46:53.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDtoesController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\LoginDtoesController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\LoginDtoesController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\LoginDtoesController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\LoginDtoesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:33:20.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:09:53.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CamionsController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\CamionsController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\CamionsController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\CamionsController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\CamionsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:32:27.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SensorsController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\SensorsController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\SensorsController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\SensorsController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\SensorsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:35:23.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConductorsController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\ConductorsController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\ConductorsController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\ConductorsController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\ConductorsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv18AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:32:48.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T17:50:52.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reporte.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Models\\Reporte.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Models\\Reporte.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Models\\Reporte.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Models\\Reporte.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:42:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T21:14:06.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TallersController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\TallersController.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Controllers\\TallersController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\TallersController.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Controllers\\TallersController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwHgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:23:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BuscarTalleresConFiltros.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\BuscarTalleresConFiltros.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Tallers\\BuscarTalleresConFiltros.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\BuscarTalleresConFiltros.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Tallers\\BuscarTalleresConFiltros.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T19:48:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BuscarUsuariosConFiltros.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\BuscarUsuariosConFiltros.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Usuarios\\BuscarUsuariosConFiltros.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\BuscarUsuariosConFiltros.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Usuarios\\BuscarUsuariosConFiltros.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T19:48:50.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Usuarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Details.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Usuarios\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:35:08.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TallersController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\TallersController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\TallersController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\TallersController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\TallersController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv10AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:34:13.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:44:48.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Tallers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Tallers\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:45:48.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Conductors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Conductors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:49:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BuscarConductoresConFiltros.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\BuscarConductoresConFiltros.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Conductors\\BuscarConductoresConFiltros.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\BuscarConductoresConFiltros.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Conductors\\BuscarConductoresConFiltros.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T19:47:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BuscarCamionesConFiltros.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\BuscarCamionesConFiltros.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Camions\\BuscarCamionesConFiltros.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\BuscarCamionesConFiltros.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Camions\\BuscarCamionesConFiltros.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T19:48:03.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CamionsController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\CamionsController.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Controllers\\CamionsController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\CamionsController.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Controllers\\CamionsController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv24AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:22:09.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConductorsController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\ConductorsController.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Controllers\\ConductorsController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\ConductorsController.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Controllers\\ConductorsController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAwHMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:21:09.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAADwv3IAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:24:00.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv1oAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:34:33.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MantenimientoesController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\MantenimientoesController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Controllers\\MantenimientoesController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Controllers\\MantenimientoesController.cs",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Controllers\\MantenimientoesController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAADwv3wAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:33:49.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Usuario.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:16.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MantenimientoesController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\MantenimientoesController.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Controllers\\MantenimientoesController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\MantenimientoesController.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Controllers\\MantenimientoesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvx0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:23:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BuscarMantenimientosConFiltros.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\BuscarMantenimientosConFiltros.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\BuscarMantenimientosConFiltros.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\BuscarMantenimientosConFiltros.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\BuscarMantenimientosConFiltros.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwEEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T16:30:43.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Camion.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Camion.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Camion.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Camion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:01:34.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Camions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Camions\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:49:53.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginDtoesController.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\LoginDtoesController.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Controllers\\LoginDtoesController.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Controllers\\LoginDtoesController.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Controllers\\LoginDtoesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:22:39.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Conductor.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Conductor.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Conductor.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Conductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:04:17.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Taller.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Taller.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Taller.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Taller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:06:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:48:28.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Alerta.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Alerta.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Alerta.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Alerta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:18:09.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:45:53.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20250620153555_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250620153555_sql.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250620153555_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250620153555_sql.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250620153555_sql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:35:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Tallers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Tallers\\Delete.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:31:06.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Details.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:16:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Mantenimientoes\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Mantenimientoes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T15:49:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Alertas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Alertas\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:29:13.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Tallers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Tallers\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:30:02.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Tallers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Details.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Tallers\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwCcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:30:33.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:53:25.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\LoginDtoes\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\LoginDtoes\\Login.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\LoginDtoes\\Login.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\LoginDtoes\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T16:45:38.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20250620134756_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250620134756_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250620134756_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250620134756_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250620134756_postgres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:47:56.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250620135018_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250620135018_sql.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250620135018_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250620135018_sql.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250620135018_sql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:50:19.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Data\\DbContext.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:41:29.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Sensor.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\Sensor.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\Sensor.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:19:17.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Alertas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Details.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Alertas\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:29:45.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Alertas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Alertas\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Alertas\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:30:54.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Proyecto.Api.MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACgAAADA3rqpHEYmwC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-18T15:30:50.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GestionDeFlotas.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\GestionDeFlotas.Api.csproj",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\GestionDeFlotas.Api.csproj",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\GestionDeFlotas.Api.csproj",
+              "RelativeToolTip": "GestionDeFlotas\\GestionDeFlotas.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T01:47:43.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "Proyecto.Api.MVC\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-18T21:16:27.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AlertasYSensores.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\AlertasYSensores.Api.csproj",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\AlertasYSensores.Api.csproj",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\AlertasYSensores.Api.csproj",
+              "RelativeToolTip": "AlertasYSensores.Api\\AlertasYSensores.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-19T01:47:51.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\appsettings.json",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\appsettings.json",
+              "RelativeToolTip": "GestionDeFlotas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T14:03:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas.Modelos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas.Modelos\\LoginDto.cs",
+              "RelativeToolTip": "GestionDeFlotas.Modelos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:25:09.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250619163830_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619163830_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619163830_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619163830_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619163830_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T16:38:31.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Sensors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Sensors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Sensors\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Sensors\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T02:13:10.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250619025250_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619025250_sql.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619025250_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619025250_sql.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619025250_sql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:52:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250619023158_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619023158_sql.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250619023158_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619023158_sql.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250619023158_sql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:31:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250619022453_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619022453_sql.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250619022453_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619022453_sql.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250619022453_sql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:24:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250619023032_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619023032_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619023032_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619023032_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619023032_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:30:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250619023059_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619023059_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619023059_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619023059_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619023059_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:30:59.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250619023135_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619023135_postgres.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250619023135_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619023135_postgres.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250619023135_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:31:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250619022435_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619022435_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619022435_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619022435_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619022435_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:24:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250619021954_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619021954_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619021954_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619021954_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619021954_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:19:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250619014930_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619014930_postgres.cs",
+              "RelativeDocumentMoniker": "AlertasYSensores.Api\\Migrations\\20250619014930_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\AlertasYSensores.Api\\Migrations\\20250619014930_postgres.cs",
+              "RelativeToolTip": "AlertasYSensores.Api\\Migrations\\20250619014930_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:49:30.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250619012727_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619012727_sql.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250619012727_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250619012727_sql.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250619012727_sql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:27:27.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250619012500_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Sensores.Api\\Migrations\\20250619012500_postgres.cs",
+              "RelativeDocumentMoniker": "Sensores.Api\\Migrations\\20250619012500_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Sensores.Api\\Migrations\\20250619012500_postgres.cs",
+              "RelativeToolTip": "Sensores.Api\\Migrations\\20250619012500_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:25:00.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250619012654_postgres.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Sensores.Api\\Migrations\\20250619012654_postgres.cs",
+              "RelativeDocumentMoniker": "Sensores.Api\\Migrations\\20250619012654_postgres.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Sensores.Api\\Migrations\\20250619012654_postgres.cs",
+              "RelativeToolTip": "Sensores.Api\\Migrations\\20250619012654_postgres.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:26:54.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T15:51:08.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T17:16:39.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Camions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Camions\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:16:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:33:29.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Conductors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Create.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Conductors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:19:34.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Usuarios\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:34:03.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Conductors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Details.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Conductors\\Details.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAhwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:20:12.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Camions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Details.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Camions\\Details.cshtml",
+              "ViewState": "AgIAAD4AAACAMpq4KDYpwD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:18:29.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Usuarios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:34:37.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Tallers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Tallers\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Tallers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:31:35.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Conductors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Conductors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:21:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Conductors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Conductors\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Conductors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:20:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Camions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Camions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:18:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Views\\Camions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Views\\Camions\\Edit.cshtml",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Views\\Camions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T19:17:57.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Proyecto.Api.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "RelativeDocumentMoniker": "Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "RelativeToolTip": "Proyecto.Api.MVC\\Proyecto.Api.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T16:42:38.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:52:01.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Proyecto.API.Consumer.csproj",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj",
+              "RelativeDocumentMoniker": "Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj",
+              "RelativeToolTip": "Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T14:54:08.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250618150203_sql.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618150203_sql.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250618150203_sql.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618150203_sql.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250618150203_sql.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:02:03.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20250618141306_sqlserver.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618141306_sqlserver.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250618141306_sqlserver.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618141306_sqlserver.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250618141306_sqlserver.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:13:06.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20250618141114_sqlserver.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618141114_sqlserver.cs",
+              "RelativeDocumentMoniker": "GestionDeFlotas\\Migrations\\20250618141114_sqlserver.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\GestionDeFlotas\\Migrations\\20250618141114_sqlserver.cs",
+              "RelativeToolTip": "GestionDeFlotas\\Migrations\\20250618141114_sqlserver.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T14:11:14.561Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1080,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

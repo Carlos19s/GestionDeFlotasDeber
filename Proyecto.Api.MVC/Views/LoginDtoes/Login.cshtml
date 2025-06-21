@@ -1,0 +1,44 @@
+﻿@model GestionDeFlotas.Modelos.LoginDto
+
+@{
+    ViewData["Title"] = "Login";
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/Proyecto.Api.MVC.styles.css" asp-append-version="true" />
+
+
+<form method="post" asp-action="Login2">
+    
+    <div class="form-group IngresoDatos">
+        <h2 class="TituloLogin">Login</h2>
+        <label for="Usuario">Usuario</label>
+        <input asp-for="Usuario" class="form-control" required />
+    </div>
+
+    <div class="form-group IngresoDatos">
+        <label for="Password">Contraseña</label>
+        <input asp-for="Password" class="form-control" type="password" required />
+    </div>
+    <div class="Botones">
+    <div class="form-group">
+        <input type="submit" value="Ingresar" class="btn btn-primary" />
+    </div>
+    <div class="form-group">
+        <a class="btn btn-primary" href="/home">Regresar</a>
+    </div>
+    </div>
+</form>
+
+@if (ViewData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger mt-3">
+        @ViewData["ErrorMessage"]
+    </div>
+}
+else if (ViewData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success mt-3">
+        @ViewData["SuccessMessage"]
+    </div>
+}

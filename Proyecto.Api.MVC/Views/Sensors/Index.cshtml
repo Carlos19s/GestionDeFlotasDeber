@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Sensores.Modelos.Sensor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-action="Simular" method="post" asp-antiforgery="true" style="display: inline;">
+    <button type="submit" class="btn btn-success">Iniciar simulación</button>
+</form>
+<form asp-action="CancelarSimulacion" method="post" asp-antiforgery="true" style="display: inline;">
+    <button type="submit" class="btn btn-danger">Parar simulación</button>
+</form>
+
+<!-- Tabla donde se muestran los sensores -->
+<table class="table" id="sensorTable">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.IDCamion)</th>
+            <th>@Html.DisplayNameFor(model => model.Kilometraje)</th>
+            <th>@Html.DisplayNameFor(model => model.EstadoMotor)</th>
+            <th>@Html.DisplayNameFor(model => model.FechaRegistro)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="sensor-@item.Id">
+                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.IDCamion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Kilometraje)</td>
+                <td>@Html.DisplayFor(modelItem => item.EstadoMotor)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaRegistro)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<!-- Agregar el script de Ajax -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    // Función para cargar los sensores desde el servidor
+    function cargarSensores() {
+        $.ajax({
+            url: '/Sensors/GetSensors',  // Ruta del controlador MVC que llama a la API
+            method: 'GET',
+            success: function (data) {
+                // Limpiar la tabla antes de agregar los nuevos datos
+                var tbody = $('#sensorTableBody');
+                tbody.empty();
+
+                // Agregar las filas a la tabla
+                data.forEach(function (sensor) {
+                    var row = `
+                        <tr id="sensor-${sensor.id}">
+                            <td>${sensor.id}</td>
+                            <td>${sensor.iDCamion}</td>
+                            <td>${sensor.kilometraje}</td>
+                            <td>${sensor.estadoMotor}</td>
+                            <td>${sensor.fechaRegistro}</td>
+                        </tr>
+                    `;
+                    tbody.append(row);
+                });
+            },
+            error: function (xhr, status, error) {
+                console.error("Error al cargar los sensores:", error);
+            }
+        });
+    }
+
+    // Cargar los sensores cuando se carga la página
+    $(document).ready(function () {
+        cargarSensores();
+
+        // Configurar un intervalo para actualizar los sensores cada 10 segundos
+        setInterval(cargarSensores, 10000);  // Actualiza los sensores cada 10 segundos
+    });
+
+    // Función para simular la creación de un sensor
+    $('#btnSimularSensor').on('click', function () {
+        $.ajax({
+            url: '/Sensors/SimularSensor',  // Llamamos al método del controlador MVC para simular un sensor
+            method: 'POST',
+            success: function (data) {
+                console.log("Sensor simulado:", data);
+                // Llamar de nuevo a cargar los sensores para obtener el sensor recién simulado
+                cargarSensores();
+            },
+            error: function (xhr, status, error) {
+                console.error("Error al simular el sensor:", error);
+            }
+        });
+    });
+</script>
+

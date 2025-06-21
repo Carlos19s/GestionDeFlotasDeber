@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\bin\Debug\net8.0\GestionDeFlotas.Modelos.deps.json
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\bin\Debug\net8.0\GestionDeFlotas.Modelos.dll
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\bin\Debug\net8.0\GestionDeFlotas.Modelos.pdb
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\GestionDeFlotas.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\GestionDeFlotas.Modelos.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\GestionDeFlotas.Modelos.AssemblyInfo.cs
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\GestionDeFlotas.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\GestionDeFlotas.Modelos.dll
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\refint\GestionDeFlotas.Modelos.dll
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\GestionDeFlotas.Modelos.pdb
+C:\Users\carlo\source\repos\GestionDeFlotas\GestionDeFlotas.Modelos\obj\Debug\net8.0\ref\GestionDeFlotas.Modelos.dll

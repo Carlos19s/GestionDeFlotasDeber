@@ -1,0 +1,78 @@
+﻿@model IEnumerable<GestionDeFlotas.Modelos.Mantenimiento>
+
+@{
+    ViewData["Title"] = "Buscar Mantenimientos";
+}
+
+<h1>Buscar Mantenimientos</h1>
+
+<!-- Formulario de búsqueda con filtros -->
+<form method="get" action="@Url.Action("BuscarMantenimientosConFiltros")">
+    <div class="form-group">
+        <label for="searchTerm">Buscar por tipo de mantenimiento:</label>
+        <input type="text" id="searchTerm" name="searchTerm" placeholder="Buscar por tipo de mantenimiento..." class="form-control" />
+    </div>
+
+    <!-- Botones para filtrar por estado -->
+    <div class="form-group">
+        <button type="submit" name="pendiente" value="false" class="btn btn-danger">Pendiente</button>
+        <button type="submit" name="pendiente" value="true" class="btn btn-success">Completado</button>
+        <button type="submit" name="pendiente" value="" class="btn">Todos</button>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+
+
+<h3>Resultados de la búsqueda</h3>
+
+<!-- Tabla para mostrar los mantenimientos filtrados -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Fecha)</th>
+            <th>@Html.DisplayNameFor(model => model.tipoMantenimiento)</th>
+            <th>@Html.DisplayNameFor(model => model.taller.Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.camion.Marca)</th>
+            <th>@Html.DisplayNameFor(model => model.Pendiente)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var mantenimiento in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => mantenimiento.Id)</td>
+                <td>@Html.DisplayFor(modelItem => mantenimiento.Fecha)</td>
+                <td>@Html.DisplayFor(modelItem => mantenimiento.tipoMantenimiento)</td>
+                <td>@Html.DisplayFor(modelItem => mantenimiento.TallerId)</td>
+                <td>@Html.DisplayFor(modelItem => mantenimiento.CamionId)</td>
+                <td>@Html.DisplayFor(modelItem => mantenimiento.Pendiente)</td>
+                <td>
+                    @if (mantenimiento.Pendiente)
+                    {
+                        <span class="badge badge-success">Pendiente</span>
+                    }
+                    else
+                    {
+                        <span class="badge badge-danger">Completado</span>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = mantenimiento.Id }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = mantenimiento.Id }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = mantenimiento.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">
+        No se encontraron mantenimientos con los filtros seleccionados.
+    </div>
+}

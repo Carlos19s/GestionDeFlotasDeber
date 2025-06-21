@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestionDeFlotas.Api.props" />
+</Project>

@@ -1,0 +1,65 @@
+﻿@model GestionDeFlotas.Modelos.Mantenimiento
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Mantenimiento</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Fecha)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tipoMantenimiento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tipoMantenimiento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TallerId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TallerId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CamionId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CamionId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Pendiente)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Pendiente)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id}) |
+    <a asp-action="Index">Back to List</a>
+</div>
+<h4>Taller Relacionado</h4>
+<div>
+    <p>Nombre: @Model.taller.Nombre</p> <!-- Aquí accedes a la propiedad 'taller' -->
+    <p>Ciudad: @Model.taller.Ciudad</p> <!-- Aquí accedes a la propiedad 'Ciudad' del taller -->
+</div>
+
+<h4>Camión Relacionado</h4>
+<div>
+    <p>Marca: @Model.camion.Marca</p> <!-- Aquí accedes a la propiedad 'Marca' del camión -->
+</div>
+

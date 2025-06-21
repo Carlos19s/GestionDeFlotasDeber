@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VYSy1asFMg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\source\\repos\\GestionDeFlotas\\Proyecto.API.Consumer\\Proyecto.API.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

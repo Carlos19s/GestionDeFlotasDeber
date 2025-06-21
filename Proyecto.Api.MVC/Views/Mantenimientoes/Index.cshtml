@@ -1,0 +1,85 @@
+﻿@model IEnumerable<GestionDeFlotas.Modelos.Mantenimiento>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<!-- Formulario de búsqueda con filtros -->
+<form method="get" action="@Url.Action("BuscarMantenimientosConFiltros")">
+    <div class="form-group">
+        <label for="searchTerm">Buscar por tipo de mantenimiento:</label>
+        <input type="text" id="searchTerm" name="searchTerm" placeholder="Buscar por tipo de mantenimiento..." class="form-control" />
+    </div>
+
+    <!-- Botones para filtrar por estado -->
+    <div class="form-group">
+        <button type="submit" name="pendiente" value="false" class="btn btn-danger">Pendiente</button>
+        <button type="submit" name="pendiente" value="true" class="btn btn-success">Completado</button>
+        <button type="submit" name="pendiente" value="" class="btn">Todos</button>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipoMantenimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TallerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CamionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pendiente)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            var pendienteClass = item.Pendiente ? "bg-success text-white" : "bg-danger text-white";
+        <tr class="@pendienteClass">
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoMantenimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TallerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CamionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pendiente)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

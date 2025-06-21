@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "V082BgBn0KjD10h13T3EmZ5KTNV7oWkf8GViL5Ui+no=",
+  "Source": "GestionDeFlotas.Api",
+  "BasePath": "_content/GestionDeFlotas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

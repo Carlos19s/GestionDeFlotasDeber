@@ -1,0 +1,50 @@
+﻿
+@model IEnumerable<Sensores.Modelos.Alerta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/Proyecto.Api.MVC.styles.css" asp-append-version="true" />
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="GenerarMantenimientoPredictivo">Generar Alertas De Mantenimiento</a>
+</p>
+<p>
+    <a asp-action="ExportarPDF">Descargar Pdf Predictivo fallo a los 30 dias</a>
+</p>
+
+<!-- Aquí inicia la tabla donde se muestran las alertas -->
+<table class="table" id="alertaTable">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.IdCamion)</th>
+            <th>@Html.DisplayNameFor(model => model.TipoAlerta)</th>
+            <th>@Html.DisplayNameFor(model => model.Mensaje)</th>
+            <th>@Html.DisplayNameFor(model => model.Fecha)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="alert-@item.Id">
+                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdCamion)</td>
+                <td>@Html.DisplayFor(modelItem => item.TipoAlerta)</td>
+                <td>@Html.DisplayFor(modelItem => item.Mensaje)</td>
+                <td>@Html.DisplayFor(modelItem => item.Fecha)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id })
+                    @Html.ActionLink("Details", "Details", new { id = item.Id })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

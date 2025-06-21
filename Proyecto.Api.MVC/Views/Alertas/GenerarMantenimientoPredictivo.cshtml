@@ -1,0 +1,26 @@
+﻿@model List<Sensores.Modelos.Alerta>
+
+<h2>Alertas de Mantenimiento Predictivo</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Camión ID</th>
+            <th>Tipo de Alerta</th>
+            <th>Mensaje</th>
+            <th>Fecha de Generación</th>
+            <td>Estado</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var alerta in Model)
+        {
+            <tr>
+                <td>@alerta.IdCamion</td>
+                <td>@alerta.TipoAlerta</td>
+                <td>@alerta.Mensaje</td>
+                <td>@alerta.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+            </tr>
+        }
+    </tbody>
+</table>

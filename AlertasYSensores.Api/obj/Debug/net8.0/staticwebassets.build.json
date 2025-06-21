@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ysPK2x/xeaXeQ0QxWAEabTBh2AD+3+fPp6VNXSDNgro=",
+  "Source": "AlertasYSensores.Api",
+  "BasePath": "_content/AlertasYSensores.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

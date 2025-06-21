@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/Proyecto.Api.MVC.styles.css" asp-append-version="true" />
+<body class="contenedorGeneral">
+<div class="contenedor-home">
+    <h1 class="display-4 Titulo">Administracion de Flotas</h1>
+    <p> Servicio de Administracion</p>
+
+        <div class="contenedorlogin ">
+        @using Microsoft.AspNetCore.Http
+        @inject IHttpContextAccessor HttpContextAccessor
+        @{
+            var usuario = HttpContextAccessor.HttpContext.Session.GetString("usuario");
+        }
+
+        @if (string.IsNullOrEmpty(usuario))
+        {
+                <a class="LoginInicio" href="/LoginDtoes/Login">Login</a>
+        }
+        else
+        {
+            <p>Bienvenido @usuario</p>
+        }
+    </div>
+</div>
+</body>
